@@ -179,9 +179,9 @@ My graphic design background gives me a real advantage. I do not only plan the s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadm795/hammadm795/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadm795/hammadm795/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating the GitHub contribution grid" src="https://raw.githubusercontent.com/hammadm795/hammadm795/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="Animated snake eating the GitHub contribution grid" src="github-snake.svg" />
   </picture>
 </p>
 
