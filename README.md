@@ -171,21 +171,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
   </a>
 </p>
 
-<!-- ================= SNAKE ANIMATION =================
-  Needs the workflow file at .github/workflows/snake.yml
-  Run it once from the Actions tab, then this image goes live.
--->
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="Animated snake eating the GitHub contribution grid" src="github-snake.svg" />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
 <!-- ================= SEO KEYWORD BLOCK ================= -->
 <details>
