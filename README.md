@@ -29,17 +29,6 @@
   </a>
 </p>
 
-<!-- ================= LIVE COUNTERS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hammadm795&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile view counter for Hammad Fazal Baig" />
-  <a href="https://github.com/hammadm795?tab=followers">
-    <img src="https://img.shields.io/github/followers/hammadm795?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0d1117" alt="GitHub followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Available for freelance digital marketing and design projects" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
-
 <!-- ================= ABOUT / SEO INTRO ================= -->
 <h2 align="center">About Me</h2>
 
