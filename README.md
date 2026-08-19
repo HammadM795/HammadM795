@@ -150,7 +150,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
 
-
 <!-- ================= SEO KEYWORD BLOCK ================= -->
 <details>
   <summary><b>Areas I Work In</b></summary>
@@ -166,11 +165,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
     prompt engineering, machine learning.
   </p>
 </details>
-
-<!-- ================= QUOTE ================= -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-</p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
