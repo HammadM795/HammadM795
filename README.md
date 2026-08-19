@@ -149,27 +149,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
-<!-- ================= STATS ================= -->
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hammadm795&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&bg_color=0d1117" alt="GitHub stats card for hammadm795" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadm795&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=22d3ee&bg_color=0d1117" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=hammadm795&hide_border=true&theme=tokyonight&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hammadm795&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hammadm795&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub profile trophies" />
-  </a>
-</p>
 
 
 <!-- ================= SEO KEYWORD BLOCK ================= -->
