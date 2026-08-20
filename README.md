@@ -82,10 +82,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
 <p align="center"><b>Web &amp; AI Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,nodejs,python,tensorflow,git&theme=dark" alt="WordPress, HTML, CSS, JavaScript, React, Node.js, Python, TensorFlow and Git" />
-  <br />
-  <img src="https://img.shields.io/badge/AI%20Automation-0d1117?style=flat-square" alt="AI automation" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=flat-square" alt="Prompt engineering" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier workflow automation" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
