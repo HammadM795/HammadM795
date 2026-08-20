@@ -3,7 +3,6 @@
   GITHUB PROFILE README  |  hammadm795
   Repo name must be exactly: hammadm795  (same as your username)
   File must be at the repo root and named: README.md
-
   SEO NOTES:
   - Real text headings are used alongside the animated images so
     Google can actually crawl and index the keywords.
