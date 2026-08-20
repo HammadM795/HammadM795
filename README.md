@@ -10,15 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hammad%20Fazal%20Baig&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Social%20Media%20Lead%20%7C%20Digital%20Marketing%20Strategist%20%7C%20AI%20Developer&descSize=16&descAlignY=54" width="100%" alt="Hammad Fazal Baig, Social Media Lead, Digital Marketing Strategist, Graphic Designer and AI Developer" />
 </p>
 
-<h1 align="center">Hammad Fazal Baig</h1>
-<h3 align="center">Social Media Lead &bull; Digital Marketing Strategist &bull; Senior Graphic Designer &bull; AI Developer</h3>
 
-<!-- ================= ANIMATED TYPING TEXT ================= -->
-<p align="center">
-  <a href="https://github.com/hammadm795">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Social+Media+Lead+%26+Digital+Marketing+Strategist;5%2B+Years+of+Senior+Level+Graphic+Design+%26+Branding;Paid+Ads+on+Meta%2C+Google+%26+LinkedIn;SEO%2C+SEM+and+Performance+Optimization;AI+Developer+Building+Smarter+Marketing+Workflows" alt="Animated headline: social media strategy, graphic design, paid advertising, SEO and AI development" />
-  </a>
-</p>
 
 <!-- ================= ABOUT / SEO INTRO ================= -->
 <h2 align="center">About Me</h2>
