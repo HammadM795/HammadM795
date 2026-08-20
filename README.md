@@ -86,17 +86,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
-<!-- ================= CURRENTLY ================= -->
-<h2 align="center">What I Am Doing Now</h2>
-
-<p align="center">
-  🔭 Currently working on <b><a href="https://workspace.zilon.com/">Zilon Workspace</a></b><br />
-  🤖 Building AI powered tools that speed up content and campaign work<br />
-  📈 Helping brands grow through smart digital strategy and strong branding<br />
-  🌱 Always learning, always testing, always shipping<br />
-  💬 Ask me about social media strategy, paid ads, branding or AI
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
 <!-- ================= CONNECT ================= -->
