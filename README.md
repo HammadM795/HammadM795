@@ -1,10 +1,3 @@
-<!--
-====================================================================
-  GITHUB PROFILE README  |  hammadm795
-  Repo name must be exactly: hammadm795  (same as your username)
-  File must be at the repo root and named: README.md
--->
-
 <!-- ================= ANIMATED HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hammad%20Fazal%20Baig&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Social%20Media%20Lead%20%7C%20Digital%20Marketing%20Strategist%20%7C%20AI%20Developer&descSize=16&descAlignY=54" width="100%" alt="Hammad Fazal Baig, Social Media Lead, Digital Marketing Strategist, Graphic Designer and AI Developer" />
