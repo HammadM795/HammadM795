@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 
 <img align="right" width="330" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=800&color=22D3EE&multiline=true&width=330&height=140&lines=const+hammad+%3D+%7B;++role%3A+'Social+Media+Lead'%2C;++also%3A+%5B'Designer'%2C+'AI+Dev'%5D%2C;++ads%3A+%5B'Meta'%2C+'Google'%2C+'LinkedIn'%5D%2C;++goal%3A+'Growth+by+design'%2C;%7D" alt="Animated code card summarizing role, skills and paid advertising platforms" />
-
+ 
 I am a **Social Media Lead and Digital Marketing Strategist** with **2+ years** of proven experience leading social media, and **5+ years** as a **Graphic Designer** creating impactful brand visuals. I also work as an **AI Developer**, building tools and automations that make marketing faster and smarter.
 
 As a Social Media Lead, I build and execute **data driven strategies** that increase engagement, drive lead generation, and grow brand visibility. I manage **multi platform campaigns**, plan **content calendars**, run **paid advertising**, and use **analytics** to optimize performance.
