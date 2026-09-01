@@ -20,7 +20,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
 
 <!-- ================= CORE STRENGTHS ================= -->
 <h2 align="center">Core Strengths</h2>
-
+  
 | | Service | What It Delivers |
 |:--:|:--|:--|
 | ✅ | **Social Media Lead / Manager** | End to end ownership of channels, calendars and community growth |
