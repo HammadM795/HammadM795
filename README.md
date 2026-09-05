@@ -65,7 +65,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
 <p align="center"><b>Web &amp; AI Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,nodejs,python,tensorflow,git&theme=dark" alt="WordPress, HTML, CSS, JavaScript, React, Node.js, Python, TensorFlow and Git" />
-</p>
+</p> 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
