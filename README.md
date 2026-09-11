@@ -10,7 +10,7 @@
  
 I am a **Social Media Lead and Digital Marketing Strategist** with **2+ years** of proven experience leading social media, and **5+ years** as a **Graphic Designer** creating impactful brand visuals. I also work as an **AI Developer**, building tools and automations that make marketing faster and smarter. 
 
-As a Social Media Lead, I build and execute **data driven strategies** that increase engagement, drive lead generation, and grow brand visibility. I manage **multi platform campaigns**, plan **content calendars**, run **paid advertising**, and use **analytics** to optimize performance.
+As a Social Media Lead, I build and execute **data driven strategies** that increase engagement, drive lead generation, and grow brand visibility. I manage **multi platform campaigns**, plan **content calendars**, run **paid advertising**, and use **analytics** to optimize performance. 
 
 My graphic design background gives me a real advantage. I do not only plan the strategy, I also create the **scroll stopping visuals** that carry it. That mix of **strategy plus design plus AI** lets me close the gap between creative vision and marketing execution, so every campaign looks strong and performs. 
 
