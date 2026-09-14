@@ -23,7 +23,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
   
 | | Service | What It Delivers |
 |:--:|:--|:--|
-| ✅ | **Social Media Lead / Manager** | End to end ownership of channels, calendars and community growth |
+| ✅ | **Social Media Lead / Manager** | End to end ownership of channels, calendars and community growth | 
 | 🎨 | **Senior Graphic Design & Branding** | Logos, brand systems, ad creatives and social visuals |
 | 📈 | **Social Media Strategy & Management** | Data driven plans built around real audience behaviour |
 | ✍️ | **Content Planning & Copywriting** | Content calendars and copy that convert, not just fill a feed |
