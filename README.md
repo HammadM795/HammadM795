@@ -33,7 +33,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
 | 🌐 | **WordPress** | Landing pages and sites built to rank and convert |
 | 🤖 | **AI Development** | AI assisted workflows, automation and smarter campaign tooling |
 
-> I proudly say it: I am a **multi talented guy**. Strategy, design and code in one person.
+> I proudly say it: I am a **multi talented guy**. Strategy, design and code in one person. 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
