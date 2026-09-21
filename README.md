@@ -100,7 +100,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
 <details>
   <summary><b>Areas I Work In</b></summary>
   <br />
-  <p>
+  <p> 
     Social media lead, social media manager, digital marketing strategist, social media marketing, SMM, 
     search engine optimization, SEO specialist, search engine marketing, SEM, paid advertising,
     Meta Ads Manager, Facebook Ads, Instagram Ads, Google Ads, LinkedIn Ads, PPC campaigns,
