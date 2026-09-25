@@ -106,7 +106,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
     Meta Ads Manager, Facebook Ads, Instagram Ads, Google Ads, LinkedIn Ads, PPC campaigns, 
     lead generation, content strategy, content calendar, copywriting, brand identity, branding, 
     senior graphic designer, logo design, ad creative design, visual storytelling,
-    Google Analytics, Search Console, marketing analytics, performance reporting, conversion optimization,
+    Google Analytics, Search Console, marketing analytics, performance reporting, conversion optimization, 
     WordPress development, landing page design, AI developer, AI automation, marketing automation,
     prompt engineering, machine learning.
   </p>
