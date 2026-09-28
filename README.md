@@ -28,7 +28,7 @@ My graphic design background gives me a real advantage. I do not only plan the s
 | 📈 | **Social Media Strategy & Management** | Data driven plans built around real audience behaviour |
 | ✍️ | **Content Planning & Copywriting** | Content calendars and copy that convert, not just fill a feed |
 | 🔍 | **SMM, SEO & SEM** | Higher visibility, better traffic quality and more conversions |
-| 💰 | **Paid Advertising** | Meta Ads, Google Ads and LinkedIn Ads with tight budget control |
+| 💰 | **Paid Advertising** | Meta Ads, Google Ads and LinkedIn Ads with tight budget control | 
 | 📊 | **Analytics, Reporting & Optimization** | Clear reporting and continuous performance tuning |
 | 🌐 | **WordPress** | Landing pages and sites built to rank and convert |
 | 🤖 | **AI Development** | AI assisted workflows, automation and smarter campaign tooling |
