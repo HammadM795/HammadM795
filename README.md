@@ -37,31 +37,6 @@ My graphic design background gives me a real advantage. I do not only plan the s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="section divider" />
 
-<!-- ================= TOOLKIT ================= -->
-<h2 align="center">My Toolkit</h2>
-
-<p align="center"><b>Design &amp; Branding</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,ae,pr&theme=dark" alt="Photoshop, Illustrator, Adobe XD, Figma, After Effects and Premiere Pro" />
-  <br />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Brand%20Identity-0d1117?style=flat-square" alt="Brand identity design" />
-  <img src="https://img.shields.io/badge/Ad%20Creatives-0d1117?style=flat-square" alt="Ad creative design" />
-</p>
-
-<p align="center"><b>Marketing &amp; Advertising</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads Manager for Facebook and Instagram advertising" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ads" />
-  <br />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
-  <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" alt="Semrush for SEO research" />
-  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" alt="Mailchimp email marketing" />
-  <img src="https://img.shields.io/badge/SEO%20%26%20SEM-0d1117?style=flat-square" alt="SEO and SEM" />
-</p>
-
 <!-- ================= CONNECT ================= -->
 <h2 align="center">Connect With Me</h2>
 
